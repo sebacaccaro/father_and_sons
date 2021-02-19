@@ -1,0 +1,5 @@
+Place in thi folder the debates files with the following names:
+I_legislature_italian_republic.json
+XII_legislature_italian_republic.json
+XVII_legislature_italian_republic.json
+XVIII_legislature_italian_republic.json
