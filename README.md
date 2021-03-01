@@ -20,7 +20,7 @@ Before executing the project you must check which command your system uses to ru
 * If the commands are `python3` and `pip3` you will need to run `execute3.bash`
 * If the commands are `python` and `pip` you will need to run `execute.bash`
 
-Note that you will also need to place the parlamientary debates as in the ```Code/Debates folder``` as indicated in the ```Code/Debates/placeholder.txt``` file <br>
+Note that you will also need to place the parliamentary debates as indicated in the ```Code/Debates``` folder as indicated in the ```Code/Debates/placeholder.txt``` file. <br>
 
 Instruction are reported for `execute.bash` but they are identical for `execute3.bash`. <br>
 To execute the project:
